@@ -29,4 +29,8 @@ for i in range(len(message)):
     if c2<10:
         print("(" + str(c1) + "," + "{:02d}".format(c2) + ")",end="")
     else:
+
         print("(" + str(c1) + "," + str(c2) + ")",end="")
+
+OUTPUT:
+DECRYPTED MESSAGE: TWO DRIVEN JOCKS HELP FAX MY BIG QUIZ
