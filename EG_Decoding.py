@@ -60,7 +60,9 @@ for i in c2_list:
         print(nonval[n3],end="")
         print(nonval[n1],end="")
 
-         
+
+OUTPUT:
+CIPHER TEXT:(149,107)(149,07)(149,114)(149,00)(149,02)(149,06)(149,07)(149,112)
         
         
         
@@ -72,6 +74,7 @@ for i in c2_list:
         
         
         
+
 
 
 
