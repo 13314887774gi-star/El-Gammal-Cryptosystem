@@ -55,4 +55,19 @@ print("V2:" + str(v2))
 if v1==v2:
     print("This signature is valid.")
 else:
+
     print("Invalid Signature.")
+
+OUTPUT:
+Private key:
+k:254621
+Public key:
+p:309677
+r:2
+a:69490
+c:165188
+d:296494
+Signature: (165188,296494)
+V1:16384
+V2:16384
+This signature is valid.
